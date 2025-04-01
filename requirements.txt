@@ -1,4 +1,4 @@
  pandas
- plotly-express
+ plotly
  streamlit
  nbformat
