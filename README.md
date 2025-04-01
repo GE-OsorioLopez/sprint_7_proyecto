@@ -1,5 +1,8 @@
 # Proyecto 7 - Creacion de una pagina web con Streamlit
-## ¿Que hace la paggina?
+#Pagina:
+https://proyecto-7-gabriel.onrender.com/
+
+## ¿Que hace la pagina?
 . Muestra un histograma del kilometraje de los coches
 . Muestra un grafico de dispersión entre kilometraje y el precio
 . Tiene una funcion para el uso de casillas para elegir que grafico ver
