@@ -1,5 +1,5 @@
 # Proyecto 7 - Creacion de una pagina web con Streamlit
-#Pagina:
+# Pagina:
 https://proyecto-7-gabriel.onrender.com/
 
 ## ¿Que hace la pagina?
